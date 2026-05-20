@@ -1,6 +1,6 @@
 # Exercício 3 — Integração Spark + PostgreSQL (CRUD Web)
 
-Projeto desenvolvido para a disciplina de Tecnologias da Informação II (PUC Minas), com o objetivo de aplicar conceitos de desenvolvimento backend em Java utilizando o framework Spark, PostgreSQL e formulários HTML.
+Projeto desenvolvido para a disciplina de Trabalho Interdisciplinar II: Back-End (PUC Minas), com o objetivo de aplicar conceitos de desenvolvimento backend em Java utilizando o framework Spark, PostgreSQL e formulários HTML.
 
 ---
 
